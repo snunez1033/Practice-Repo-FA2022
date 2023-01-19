@@ -4,21 +4,25 @@
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Data science
 
-- Course 2
+- strategic management
 
-- Course 3
+- Database
 
-- Course 4
+- Intro to finance
+
+- Reverse logistics
+
+- Operations research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- taking photos
 
-- Thing 2
+- spending time with friends and family
 
 - Thing 3 as shown in this website <https://www.floridapoly.edu>
 
